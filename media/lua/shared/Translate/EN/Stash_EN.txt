@@ -1,0 +1,100 @@
+Stash_EN = {
+    Stash_AnnotedMap_Dixie = "Annotated Map - Dixie",
+    Stash_DixieMap1_Text1="Hid my toys here.",
+    Stash_DixieMap1_Text2="Gas station. I ditched Tony there. Probably one of them by now.",
+    Stash_DixieMap2_Text1="Our group got overwhelmed. All of them turned.",
+    Stash_DixieMap3_Text1="Billy supposedly left tools here.",
+
+    Stash_AnnotedMap_Ekron = "Annotated Map - Ekron",
+    Stash_EkronMap1_Text1="Couldn't grab my tools before leaving. Too late now.",
+    Stash_EkronMap1_Text2="Knowledge.",
+
+    Stash_AnnotedMap_ScenicGrove = "Annotated Map - Scenic Grove",
+    Stash_ScenicGroveMap1_Text1 = "Death trap!",
+    Stash_ScenicGroveMap1_Text2 = "I saw Juliette here.",
+    Stash_ScenicGroveMap2_Text1 = "Warehouses. Won't stay fresh for long",
+
+    Stash_AnnotedMap_WesternFarmlands = "Annotated Map - Western Farmlands",
+    Stash_SmallTownWestMap1_Text1 = "I hid the tools in there.",
+    Stash_SmallTownWestMap1_Text2 = "Camping store with armory",
+
+    Stash_AnnotedMap_ValleyStation = "Annotated Map - Valley Station",
+    Stash_ValleyStationMallMap1_Text1 = "Don't go there. Just don't.",
+    Stash_ValleyStationMallMap1_Text2 = "The Mall... But is it worth it?",
+    Stash_ValleyStationMap1_Text1 = "Left Jimmy to turn in that shed. With a bag of tools. Shame",
+    Stash_ValleyStationMap1_Text2 = "Dock. But no boat",
+    
+    Stash_AnnotedMap_PonyRoamO = "Annotated Map - Pony Roam-O"
+    Stash_PonyRoamOMap1_Text1 = "My former safehouse. Overrun. Need to keep moving.",
+    Stash_PonyRoamOMap1_Text2 = "Path leads to a farm with a well",
+    Stash_PonyRoamOMap2_Text1 = "Ekron",
+    Stash_PonyRoamOMap2_Text2 = "So many memories here. Time to move on.",
+
+    Stash_AnnotedMap_RiversideCountryClubMap = "Annotated Map - Country Club",
+    Stash_RiversideCountryClubMap1_Text1 = "Horse race track"
+    Stash_RiversideCountryClubMap1_Text2 = "Country Club"
+    Stash_RiversideCountryClubMap1_Text3 = "Golf course"
+    Stash_RiversideCountryClubMap1_Text4 = "Shotgun bag"
+    Stash_RiversideCountryClubMap1_Text5 = "Screw this place."
+
+    Stash_AnnotedMap_Cabin = "Annotated Map - Cabin",
+    Stash_CabinLocation1_Text1 = "Old Oven.",
+    Stash_CabinLocation1_Text2 = "Well.",
+    Stash_CabinLocation1_Text3 = "I don't want to stay alone in the woods...",
+
+    Stash_AnnotedMap_MuldraughRailyardMap = "Annotated Map - Railyard",
+    Stash_MuldraughRailyardMap1_Text1 = "Bag of guns here. + 2 water containers."
+    Stash_MuldraughRailyardMap1_Text2 = "Saw my former boss here. I should go kill him, that snobish asshole.",
+
+    Stash_AnnotedMap_Louisville = "Annotated Map - Louisville",
+
+    Stash_LouisvilleAudubonMap1_Text1 = "Guns inside. Lure zombies out first",
+	Stash_LouisvilleAudubonMap1_Text2 = "Mall.",
+	Stash_LouisvilleAudubonMap1_Text3 = "Gas station.",
+	Stash_LouisvilleCentralMap1_Text1 = "Fortified Police department was completely overrun. TONS of guns inside though!",
+	Stash_LouisvilleCentralMap1_Text2 = "Video Store. Need to grab some movies to binge."
+
+	Stash_LouisvilleEvergreenHillMap2_Text1 = "My family's home. God bless them, I hope they're alright."
+	Stash_LouisvilleOldMap1_Text1 = "Where I worked before. We made it a strongold for many survivors,",
+	Stash_LouisvilleOldMap1_Text2 = "but all it took was one infected. Now it's a deathtrap.",
+	Stash_LouisvilleOldMap1_Text3 = "There's some good loot left in there though. Search for bags."
+	Stash_LouisvilleOldMap1_Text4 = "LOUISVILLE IS A DEATH TRAP. DONT STAY HERE. TOO LATE FOR ME.", 
+	Stash_LouisvilleOldMap1_Text5 = "LEAVE AND STAY AWAY FROM CITIES",
+
+    Stash_LouisvilleGatedCommunityMap1_Text1 = "Safehouse",
+    Stash_LouisvilleGatedCommunityMap1_Text2 = "Entrance A",
+    Stash_LouisvilleGatedCommunityMap1_Text3 = "Entrance B",
+    Stash_LouisvilleGatedCommunityMap1_Text4 = "Entrance C",
+    Stash_LouisvilleGatedCommunityMap1_Text5 = "Seal all Entrances A, B and C to secure the whole place.",
+
+    Stash_LouisvilleCommercialDistrictMap1_Text1 ="MALL",
+    Stash_LouisvilleCommercialDistrictMap1_Text2 = "Baseball Bat Factory",
+
+    Stash_LouisvilleLSUMap1_Text1 = "Rebecca's Shotgun ?",
+
+    Stash_LouisvilleSouthMap1_Text1 = "Saw people fortifying this place. They had guns. I'd rather stay alone",
+    Stash_LouisvilleSouthMap1_Text2 = "Horde",
+
+    Stash_LouisvilleLeafhillHeightsMap1_Text1 = "Simon's place. Said he had some tools.",
+    Stash_LouisvilleLeafhillHeightsMap1_Text2 = "Elementary School",
+    Stash_LouisvilleLeafhillHeightsMap1_Text3 = "Church",
+
+    Stash_LouisvilleChapelmountDownsMap1_Text1 = "I hid my guns here",
+
+    Stash_LouisvilleScarletOakMap1_Text1 = "TRAPPED. DONT GO INSIDE",
+    Stash_LouisvilleScarletOakMap1_Text2= "Distillery. Good stuff",
+
+    Stash_LouisvillePhoenixHillMap1_Text1 = "--. ..- -. ...",
+
+
+    Stash_LouisvilleEastMap1_Text1 = "tools, but zombies too. not worth it",
+    Stash_LouisvilleEastMap2_Text1 = "Gun bags are here. Don't screw this up Jimmy.",
+    Stash_LouisvilleEastMap3_Text1 = "My parents house. I hope they're ok. I miss them so much.",
+    Stash_LouisvilleEastMap3_Text2 = "Fire Department",
+
+
+    Stash_CampGroundsLocation1_Text1 = "Two antique ovens"
+
+    Stash_MuldraughWarehouseComplexMap1_Text1 = "One liar is all it takes... Kill them before they turn",
+}
+
