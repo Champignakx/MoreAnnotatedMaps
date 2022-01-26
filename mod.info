@@ -4,3 +4,4 @@ poster=poster.png
 description= Adds more annotated map items
 authors=Champygnakx
 tags=Build 41;
+require=MoreMaps

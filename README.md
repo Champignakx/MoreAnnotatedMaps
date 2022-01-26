@@ -1,7 +1,8 @@
-READ ME : Example of the definition of an annotated map
+**READ ME : Example of the definition of an annotated map**
 
 avoid picking big buildings. Tons of zombies spawn in them and cause lag.
 
+```
 local stashMap = StashUtil.newStash("WpStashMap2", "Map", "Base.WestpointMap", "Stash_AnnotedMap"); -- defintion with id and maptype
 
 stashMap.barricades = 40 -- number of barricades 
@@ -29,3 +30,4 @@ stashMap:addStamp("X", nil, 11040, 6732, 0, 0, 0) -- add symbol to map
 
 stashMap:addStamp(nil, "Stash_WpMap2_Text1", 11016, 6740, 0, 0, 0)-- add text to map, Stash_WpMap2_Text1 is defined in txt file for translations three last parameters are RGB values
 
+```
